@@ -4,3 +4,4 @@ just updating some lines
 hello
 updating file in updates branch
 writing to give example for conflict
+something on stash
